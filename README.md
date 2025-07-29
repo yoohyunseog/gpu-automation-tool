@@ -137,10 +137,25 @@ automation.monitor_specific_gpu_usage(0)
 
 ## 👨‍💻 작성자
 
-**Your Name**
+**yoohyunseog**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yoohyunseog](https://github.com/yoohyunseog)
 - Email: your.email@example.com
+
+## 💖 후원하기
+
+이 프로젝트가 도움이 되었다면 후원을 고려해주세요! 
+
+**Your GitHub Sponsors profile**
+Read more about managing your profile.
+Your profile is live at https://github.com/sponsors/yoohyunseog
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-%E2%9D%A4-red?style=for-the-badge&logo=github)](https://github.com/sponsors/yoohyunseog)
+
+### 후원 방법:
+1. **GitHub Sponsors**: [yoohyunseog 후원하기](https://github.com/sponsors/yoohyunseog)
+2. **프로젝트 스타**: 저장소 상단의 ⭐ 버튼 클릭
+3. **이슈 보고**: 버그 발견 시 GitHub Issues에 등록
 
 ---
 
